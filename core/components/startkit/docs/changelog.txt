@@ -3,3 +3,7 @@ Changelog for StartKit.
 1.0.0-beta
 ==============
 - init
+
+1.0.4-beta
+==============
+- fix

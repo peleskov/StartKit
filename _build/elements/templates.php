@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'MAIN' => [
-        'file' => 'main',
+    'SAMPLE_MAIN' => [
+        'file' => 'sample_main',
         'description' => '',
     ],
 ];

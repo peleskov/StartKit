@@ -2,19 +2,19 @@
 
 return [
     'HEAD' => [
-        'file' => 'head',
+        'file' => 'sample_head',
         'description' => '',
     ],
     'SCRIPTs' => [
-        'file' => 'scripts',
+        'file' => 'sample_scripts',
         'description' => '',
     ],
     'HEADER' => [
-        'file' => 'header',
+        'file' => 'sample_header',
         'description' => '',
     ],
     'FOOTER' => [
-        'file' => 'footer',
+        'file' => 'sample_footer',
         'description' => '',
     ],
 ];
