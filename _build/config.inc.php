@@ -11,13 +11,13 @@ if (!defined('MODX_CORE_PATH')) {
 return [
     'name' => 'StartKit',
     'name_lower' => 'startkit',
-    'version' => '1.0.2',
+    'version' => '1.0.3',
     'release' => 'pl',
     // Install package to site right after build
     'install' => true,
     // Which elements should be updated on package upgrade
     'update' => [
-        'chunks' => false,
+        'chunks' => true,
         'menus' => false,
         'permission' => false,
         'plugins' => false,
@@ -26,7 +26,7 @@ return [
         'resources' => false,
         'settings' => false,
         'snippets' => false,
-        'templates' => false,
+        'templates' => true,
         'widgets' => false,
     ],
     // Which elements should be static by default
