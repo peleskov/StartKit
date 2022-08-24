@@ -5,4 +5,4 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
 <link rel="icon" href="favicon_32x32.png" sizes="32x32" type="image/png">
-<link rel="stylesheet" href="assets/css/style.min.css">
+<link rel="stylesheet" href="{$_modx->config.assets_url}theme/css/style.min.css">
