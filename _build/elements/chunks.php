@@ -1,20 +1,24 @@
 <?php
 
 return [
-    'HEAD' => [
+    'SAMPLE_HEAD' => [
         'file' => 'sample_head',
         'description' => '',
     ],
-    'SCRIPTs' => [
+    'SAMPLE_SCRIPTs' => [
         'file' => 'sample_scripts',
         'description' => '',
     ],
-    'HEADER' => [
+    'SAMPLE_HEADER' => [
         'file' => 'sample_header',
         'description' => '',
     ],
-    'FOOTER' => [
+    'SAMPLE_FOOTER' => [
         'file' => 'sample_footer',
+        'description' => '',
+    ],
+    'SAMPLE_MODALs' => [
+        'file' => 'sample_modals',
         'description' => '',
     ],
 ];
