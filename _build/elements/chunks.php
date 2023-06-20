@@ -21,4 +21,8 @@ return [
         'file' => 'sample_modals',
         'description' => '',
     ],
+    'ANALYTICS' => [
+        'file' => 'ANALYTICS',
+        'description' => '',
+    ],
 ];
