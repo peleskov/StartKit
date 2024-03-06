@@ -11,13 +11,13 @@ if (!defined('MODX_CORE_PATH')) {
 return [
     'name' => 'StartKit',
     'name_lower' => 'startkit',
-    'version' => '1.0.6',
+    'version' => '1.0.7',
     'release' => 'pl',
     // Install package to site right after build
     'install' => true,
     // Which elements should be updated on package upgrade
     'update' => [
-        'chunks' => true,
+        'chunks' => false,
         'menus' => false,
         'permission' => false,
         'plugins' => false,
